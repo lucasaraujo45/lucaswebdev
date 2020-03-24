@@ -1,3 +1,3 @@
 # lucaswebdev.gibhub.io
 
-Angular portfolio
+Angular / Bootstrap portfolio
