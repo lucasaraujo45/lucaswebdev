@@ -4,3 +4,4 @@ Angular / Bootstrap portfolio featuring wordpress, magento, react, angular, and 
 displaying web and graphic design projects
 
 
+Lucas Dearaujo portfolio
